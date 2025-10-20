@@ -20,8 +20,9 @@ Prebuilt **torch 2.3** wheel for AMD GPUs:
 # Remove any previous torch (if present)
 sudo pip uninstall -y torch --break-system-packages
 
-# Download the wheel from this repo (GitHub may redirect HTML if using 'blob'. If needed, use the raw link instead):
-wget "https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900/blob/main/torch-2.3.0a0%2Bgit63d5e92-cp311-cp311-linux_x86_64.whl"
+# Clone repo 
+git clone https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900
+cd pytorch2.3-gfx802-gfx803-gfx900/
 
 # Install
 sudo pip install --break-system-packages ./torch-2.3.0a0+git63d5e92-cp311-cp311-linux_x86_64.whl
@@ -61,8 +62,9 @@ Előre fordított **torch 2.3** wheel AMD GPU-khoz:
 # Korábbi torch eltávolítása (ha volt)
 sudo pip uninstall -y torch --break-system-packages
 
-# Wheel letöltése a repóból (a 'blob' URL néha HTML-t ad vissza, szükség esetén használd a raw linket):
-wget "https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900/blob/main/torch-2.3.0a0%2Bgit63d5e92-cp311-cp311-linux_x86_64.whl"
+# Repó letöltése:
+git clone https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900
+cd pytorch2.3-gfx802-gfx803-gfx900/
 
 # Telepítés
 sudo pip install --break-system-packages ./torch-2.3.0a0+git63d5e92-cp311-cp311-linux_x86_64.whl
