@@ -25,7 +25,7 @@ git clone https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900
 cd pytorch2.3-gfx802-gfx803-gfx900/
 
 # Install
-sudo pip install --break-system-packages ./torch-2.3.0a0+git63d5e92-cp311-cp311-linux_x86_64.whl
+sudo pip install --break-system-packages ./torch-2.3.1+git63d5e92-cp311-cp311-linux_x86_64.whl
 ```
 
 ## Quick check
@@ -67,7 +67,7 @@ git clone https://github.com/novarobot/pytorch2.3-gfx802-gfx803-gfx900
 cd pytorch2.3-gfx802-gfx803-gfx900/
 
 # Telepítés
-sudo pip install --break-system-packages ./torch-2.3.0a0+git63d5e92-cp311-cp311-linux_x86_64.whl
+sudo pip install --break-system-packages ./torch-2.3.1+git63d5e92-cp311-cp311-linux_x86_64.whl
 ```
 
 ## Gyors ellenőrzés
