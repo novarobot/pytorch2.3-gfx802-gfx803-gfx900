@@ -1,4 +1,4 @@
-# PyTorch 2.3 for AMD gfx802 / gfx803 / gfx900 on ROCm 5.7.3 (Python 3.11)
+# PyTorch 2.3 (2.3.1) for AMD gfx802 / gfx803 / gfx900 on ROCm 5.7.3 (Python 3.11)
 
 Prebuilt **torch 2.3** wheel for AMD GPUs:
 - **gfx802** — *AMD FirePro S7150 x2* (16 GB total = 2×8 GB)
@@ -40,7 +40,7 @@ PY
 
 ---
 
-# PyTorch 2.3 AMD gfx802 / gfx803 / gfx900 ROCm 5.7.3-hoz (Python 3.11) — Magyar
+# PyTorch 2.3 (2.3.1) AMD gfx802 / gfx803 / gfx900 ROCm 5.7.3-hoz (Python 3.11) — Magyar
 
 Előre fordított **torch 2.3** wheel AMD GPU-khoz:
 - **gfx802** — *AMD FirePro S7150 x2* (összesen 16 GB = 2×8 GB)
